@@ -1,0 +1,10 @@
+---
+ref: eflow
+name: Hello eflow
+description: eflow pack containing examples of sensor, rule, and action.
+keywords:
+    - example
+    - test
+version: 0.1.0
+author: Peter Gits
+email: Peter_Gits@dell.com

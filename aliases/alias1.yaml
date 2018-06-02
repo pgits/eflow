@@ -1,0 +1,7 @@
+---
+name: greet
+pack: eflow
+description: "Greet StackStorm"
+action_ref: "eflow.greet"
+formats:
+  - "greet {{greeting}}"

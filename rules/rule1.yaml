@@ -1,0 +1,11 @@
+---
+name: on_hello_event1
+pack: eflow
+description: Sample rule firing on eflow.event1.
+enabled: true
+trigger:
+    type: eflow.event1
+action:
+    ref: eflow.greet
+    parameters:
+        greeting: Yo
